@@ -1,0 +1,24 @@
+<!Doctype htlm>
+<htlm>
+  <head>
+     <title> premier site heberger gratuitement </title>
+     <meta charset="UTF-8" />
+     <style>
+     img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto }
+   p{
+     margin-left: auto;
+     margin-right: auto;
+     width: -em
+}
+   h1 {
+      text-align : center;
+      }
+    </style>
+    </head>
+    <body>
+      <h1 text-align="center" > Bienvenue sur le site: ServeurEnsem </h1>
+    </body>
+ </htlm>
